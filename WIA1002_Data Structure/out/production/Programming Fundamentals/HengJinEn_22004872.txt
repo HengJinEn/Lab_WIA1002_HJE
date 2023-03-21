@@ -1,0 +1,17 @@
+Thursday, 19 March 2021.
+
+My name is Heng Jin En with matrix number, 22004872. I am
+majoring in Artificial Intelligence. This is my first time taking the
+Data Structure subject. At the moment, I am feeling excited about taking this
+subject. This is because this subject can improve my algorithm skills which can
+use the most suitable data structures without wasting memory spaces.
+
+I acquired B+ for my previous Programming 1 course. It’s not too bad. So, I
+think I can manage to get A for this DS subject this term. In order
+to do well in the subject, I will follow every instructions that Mr Hoo ask me to do and extra research when free.
+Wish me luck!!!
+
+ String file1 = "C:\\Users\\ADMIN\\OneDrive\\Documents\\IdeaProjects\\WIA1002_Data Structure\\Programming Fundamentals\\src\\text1.txt";
+        String file2 = "C:\\Users\\ADMIN\\OneDrive\\Documents\\IdeaProjects\\WIA1002_Data Structure\\Programming Fundamentals\\src\\text2.txt";
+        String file3 = "C:\\Users\\ADMIN\\OneDrive\\Documents\\IdeaProjects\\WIA1002_Data Structure\\Programming Fundamentals\\src\\text3.txt";
+        String file4 = "C:\\Users\\ADMIN\\OneDrive\\Documents\\IdeaProjects\\WIA1002_Data Structure\\Programming Fundamentals\\src\\text4.txt";

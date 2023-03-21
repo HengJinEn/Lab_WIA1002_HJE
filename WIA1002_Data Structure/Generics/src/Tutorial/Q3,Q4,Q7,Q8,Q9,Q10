@@ -1,0 +1,55 @@
+Q3
+What is a raw type?
+
+a generic class/ interface used without a type parameter
+
+eg. ArrayList arrayList = new ArrayList()
+
+Why is a raw type unsafe?
+
+- bypass generic type checks
+- deferring the catch of unsafe code to runtime
+
+Why is the raw type allowed in Java?
+
+- only as a concession to compatibility of legacy code
+- show up in legacy code because lots of API classes
+(such as the Collections classes) were not generic prior to JDK 5.0
+
+Q4
+What is erasure?
+
+a process which Java compiler erases all generic type
+information from the compiled version of a program that uses generics
+
+
+Why are Java generics implements using erasure?
+
+to ensure the backward compatibility with pre generics code
+
+Q7
+
+public static void allTransportation (ArrayList<?> list){}
+
+Q8
+
+public static void display (ArrayList<?> list)
+{
+    for (Object element : list)
+    {
+        System.out.println(element);
+    }
+}
+
+Q9
+
+Object class
+
+Q10
+
+Actual type of the bound
+
+
+
+
+
